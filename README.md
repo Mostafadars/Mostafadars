@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Mostafa Ali </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Al-Slam Alykom..&hearts;++;Data+Analysis+and+ML+Learner,;FCAI+Student,;Active+Learner/Researcher,;Adore+Python..<3"></a>
 </p>
 
 
@@ -17,7 +17,7 @@
 <br>
 
 - A passionate Self-taught data analyst
-- Currently learning ML & Data Anlysis
+- Currently learning ML & Data Analysis
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1SCzPKKvZbidxF-JDxCYRs5NAdeVHG295/view?usp=sharing)
 
 <br><br>
