@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Mostafa Ali </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
+<p align="center" style="left:100px;">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Data+Analysis+%26+ML+Learner;FCAI+Student;Adore+Python+very+much;Love+eFootbale"></a>
 	
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Data+Analysis+%26+ML+Learner;FCAI+Student;Adore+Python+very+much;Love+eFootbale)](https://git.io/typing-svg)-->
