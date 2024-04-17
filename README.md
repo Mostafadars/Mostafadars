@@ -3,13 +3,9 @@
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Data+Analysis+%26+ML+Learner;FCAI+Student;Adore+Python+very+much;Love+eFootbale"></a>
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Data+Analysis+%26+ML+Learner;FCAI+Student;Adore+Python+very+much;Love+eFootbale)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Data+Analysis+%26+ML+Learner;FCAI+Student;Adore+Python+very+much;Love+eFootbale)](https://git.io/typing-svg)-->
 </p>
-
-
 <br>
-
-
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
