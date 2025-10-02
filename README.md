@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Backend+Developer;FCAI+Student;Love+Building+APIs;Passionate+about+Coding">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Backend+Developer;FCAI+Fresh+Graduate;Love+Building+APIs;Passionate+about+Coding;Big+Fan+to+Al-Ahly+Football+Club">
   </a>
 </p>
 
