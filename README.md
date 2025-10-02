@@ -11,9 +11,9 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> **About Me**
 
-<picture> 
+<!-- <picture> 
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
+</picture> -->
 
 - 🎯 A passionate **Backend Developer** with a strong foundation in building scalable APIs and systems.  
 - 💻 Experienced with **Java Spring Boot, Django, Flask, Node.js, and REST APIs**.  
