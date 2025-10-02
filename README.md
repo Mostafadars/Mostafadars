@@ -75,17 +75,28 @@
 
 <p align="left">
 <a href="https://github.com/Mostafadars" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/mostafa-ali-1b785a223/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://discordapp.com/users/mostafaali04040" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" height="30" width="40" />
 </a>
-
+<a href="mailto:mostafaali55589@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
+<a href="https://t.me/Mostafa_Ali_Elsheemy" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" alt="Telegram" height="30" width="40" />
+</a>
 <a href="https://instagram.com/mostafaali805" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/mostafa.ali.77477" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="https://www.behance.net/mostafaali157" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/behance.svg" alt="Behance" height="30" width="40" />
 </a>
 </p>
 
