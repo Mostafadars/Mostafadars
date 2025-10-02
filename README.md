@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> **About Me**
@@ -26,8 +26,6 @@
 - 🌱 Currently learning **advanced backend concepts & cloud deployment**.  
 - 🚀 Open for **internships, freelance work, or backend development roles**.  
 - 📄 Check out [My Resume](https://drive.google.com/file/d/1k-Uf3Aahe7U7J-FFg5OiYTyp3wsioCnV/view?usp=drive_link).  
-
-<br>
 
 
 <br><br>
