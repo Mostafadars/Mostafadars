@@ -25,7 +25,7 @@
 - 📊 Also skilled in **SQL, Python, and Data Analytics** thanks to projects & internships.  
 - 🌱 Currently learning **advanced backend concepts & cloud deployment**.  
 - 🚀 Open for **internships, freelance work, or backend development roles**.  
-- 📄 Check out [my resume](https://drive.google.com/file/d/1SCzPKKvZbidxF-JDxCYRs5NAdeVHG295/view?usp=sharing).  
+- 📄 Check out [My Resume](https://drive.google.com/file/d/1k-Uf3Aahe7U7J-FFg5OiYTyp3wsioCnV/view?usp=drive_link).  
 
 <br>
 
