@@ -68,7 +68,11 @@
 
 <br>
 
-## <b> Connect with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<br>
+
+## Connect with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p align="left">
 <a href="https://github.com/Mostafadars" target="blank">
@@ -94,4 +98,4 @@
 
 Credit: [Mostafa Ali](https://github.com/Mostafadars)
 
-Last Edited on: 17/04/2024
+Last Edited on: 10/02/2025
