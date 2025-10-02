@@ -3,11 +3,11 @@
 <!-- <p align="center" style="left:200px;">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Data+Analysis+%26+ML+Learner;FCAI+Student;Adore+Python+very+much;Love+eFootball"></a>
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Data+Analysis+%26+ML+Learner;FCAI+Student;Adore+Python+very+much;Love+eFootbale)](https://git.io/typing-svg)-->
-</p> -->
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Backend+Developer;FCAI+Fresh+Graduate;Love+Building+APIs;Passionate+about+Coding;Big+Fan+to+Al-Ahly+Football+Club">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&random=false&width=435&lines=Al-Slamo+Alykom;Backend+Developer;FCAI+Fresh+Graduate;Love+Building+APIs;Passionate+about+Coding;Big+Fan+to+Al-Ahly+FC">
   </a>
 </p>
 
