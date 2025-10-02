@@ -12,8 +12,9 @@
 </p>
 
 <br>
-	
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> **About Me**
+
+
+## <img src="https://www.flaticon.com/free-icon/bolt_12333407?term=about+me&page=1&position=3&origin=tag&related_id=12333407" width="40px"> **About Me**
 
 <picture> 
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
