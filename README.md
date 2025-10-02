@@ -84,10 +84,10 @@
   <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" height="30" width="40" />
 </a>
 <a href="mailto:mostafaali55589@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" alt="Gmail" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
 <a href="https://t.me/Mostafa_Ali_Elsheemy" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" alt="Telegram" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" />
 </a>
 <a href="https://instagram.com/mostafaali805" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" height="30" width="40" />
