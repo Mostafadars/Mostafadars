@@ -73,34 +73,33 @@
 
 ## Connect with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-## 🔗 Connect with me
-
 <p align="left">
 <a href="https://github.com/Mostafadars" target="blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/mostafa-ali-1b785a223/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://discordapp.com/users/mostafaali04040" target="blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" height="30" width="40" />
 </a>
 <a href="mailto:mostafaali55589@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
 <a href="https://t.me/Mostafa_Ali_Elsheemy" target="blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" alt="Telegram" height="30" width="40" />
 </a>
 <a href="https://instagram.com/mostafaali805" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/mostafa.ali.77477" target="blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 <a href="https://www.behance.net/mostafaali157" target="blank">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" alt="Behance" height="30" width="40" />
 </a>
 </p>
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
