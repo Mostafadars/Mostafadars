@@ -13,15 +13,21 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> **About Me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> 
+  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+</picture>
+
+- 🎯 A passionate **Backend Developer** with a strong foundation in building scalable APIs and systems.  
+- 💻 Experienced with **Java Spring Boot, Django, Flask, Node.js, and REST APIs**.  
+- 📊 Also skilled in **SQL, Python, and Data Analytics** thanks to projects & internships.  
+- 🌱 Currently learning **advanced backend concepts & cloud deployment**.  
+- 🚀 Open for **internships, freelance work, or backend development roles**.  
+- 📄 Check out [my resume](https://drive.google.com/file/d/1SCzPKKvZbidxF-JDxCYRs5NAdeVHG295/view?usp=sharing).  
 
 <br>
 
-- A passionate Self-taught data analyst
-- Currently learning ML & Data Analysis
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1SCzPKKvZbidxF-JDxCYRs5NAdeVHG295/view?usp=sharing)
 
 <br><br>
 
